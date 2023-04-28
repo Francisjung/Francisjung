@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francisjung
 - 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning about Fullstack Web Development
+- 🌱 I’m currently learning about fullstack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at francisjung17@gmail.com
 
